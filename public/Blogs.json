@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co.com/5TmMZ3f/Rectangle-1.png",
+    "title": "How to get your first job as a self-taught programmer",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co.com/Qp1C8bs/Ellipse-1-1.png",
+    "posted_date": "2024-12-14",
+    "reading_time": 5,
+    "hashTags": ["#WebDev", "#JavaScript", "#Frontend"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co.com/23K959r/Rectangle-1-1.png",
+    "title": "Understanding Tailwind CSS in 2024",
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co.com/hFG2Sdz/Ellipse-1-2.png",
+    "posted_date": "2024-12-12",
+    "reading_time": 10,
+    "hashTags": ["#CSS", "#Tailwind", "#Design"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co.com/FY15kVj/Rectangle-1.png",
+    "title": "Mastering React for Beginners",
+    "author": "Michael Brown",
+    "author_img": "https://i.ibb.co.com/yYGmst4/Ellipse-1.png",
+    "posted_date": "2024-12-10",
+    "reading_time": 11,
+    "hashTags": ["#React", "#JavaScript", "#Frontend"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co.com/23K959r/Rectangle-1-1.png",
+    "title": "AI Tools Revolutionizing Development",
+    "author": "Sarah Connor",
+    "author_img": "https://randomuser.me/api/portraits/women/4.jpg",
+    "posted_date": "2024-12-08",
+    "reading_time": 5,
+    "hashTags": ["#AI", "#Tools", "#Innovation"]
+  }
+  
+]
